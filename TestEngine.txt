@@ -1,0 +1,25 @@
+Test Engine
+
+#Contains the basic features of the currently implemented Test Engine such as:-
+1. PHP interface
+2. MySql backend
+3. Admin Portal
+4. User Portal(for test)
+5. Question paper generation using database
+6. Score calculation using database
+
+#Additions features:-
+1. Updated Add Question 
+Add question option for admin can now directly insert code in the database with indentations and line breaks
+2. Added Navigation Bar
+Added new navigation bar for navigating questions in forward, reverse as well as random order.
+3. Added Countdown Timer
+Added countdown timer for reference of the user as well as automatic test suspension after desired time.
+4. Sleek View
+Designed web styles for readbility and understandability of the user
+
+#Features remaining:-
+1. Final score list
+A score list will be generated in decreasing order of score through the admin portal
+2. Mail and SMS Notification
+A mail and SMS will be sent automatically to selected user through the admin portal
